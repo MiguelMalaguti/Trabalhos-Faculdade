@@ -1,0 +1,11 @@
+# Ignorar arquivos compilados
+*.exe
+*.o
+*.out
+
+# Pastas de build
+build/
+bin/
+
+# Arquivos do VS Code
+.vscode/
